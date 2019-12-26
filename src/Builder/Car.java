@@ -10,7 +10,6 @@ public class Car {
         this.color = builder.color;
         this.power = builder.power;
     }
-
     public static class Builder {
         private String name;
         private int power;
