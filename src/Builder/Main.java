@@ -6,5 +6,5 @@ public class Main {
     }
 }
 class SomeClass {
-
+    int x;
 }
